@@ -1,1 +1,1 @@
-![To-Do Image](images/screenshot(10).png)
+![To-Do Image](screenshot(10).png)
