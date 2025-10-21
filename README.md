@@ -3,9 +3,13 @@ A simple and functional To-Do List web app built using Spring MVC, Spring ORM, a
 
 ## 🚀 Features
 ✅ Add new tasks
+
 ✏️ Edit existing tasks
+
 ❌ Delete tasks
+
 🗃️ Persistent storage with MySQL using Hibernate ORM
+
 🧼 Clean architecture following MVC pattern.
 
 ## 🛠️ Tech Stack
@@ -60,16 +64,16 @@ Server :	Apache Tomcat 10.1 V
   ## 📸 Screenshots
 
       ### Home Page
-       ![Home Page](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(10).png)
+       ![Home Page](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/main/Screenshot%20(10).png)
 
       ### Add Task Modal
-      ![Add Task](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(11).png)
+      ![Add Task](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/main/Screenshot%20(11).png)
 
       ### View Task Modal
-      ![Add Task](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(9).png)
+      ![Add Task](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/main/Screenshot%20(9).png)
 
       ### Update Task Modal
-      ![Add Task](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(8).png)  
+      ![Add Task](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/main/Screenshot%20(8).png)  
 
 
 ###💡 Future Improvements
