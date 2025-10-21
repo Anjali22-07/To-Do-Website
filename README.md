@@ -60,16 +60,16 @@ Server :	Apache Tomcat 10.1 V
   ## 📸 Screenshots
 
       ### Home Page
-       ![Home Page](https://github.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(10).png)
+       ![Home Page](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(10).png)
 
       ### Add Task Modal
-      ![Add Task](https://github.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(11).png)
+      ![Add Task](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(11).png)
 
       ### View Task Modal
-      ![Add Task](https://github.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(9).png)
+      ![Add Task](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(9).png)
 
       ### Update Task Modal
-      ![Add Task](https://github.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(8).png)  
+      ![Add Task](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/blob/main/Screenshot%20(8).png)  
 
 
 ###💡 Future Improvements
