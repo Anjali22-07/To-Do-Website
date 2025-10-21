@@ -23,9 +23,9 @@ Server :	Apache Tomcat 10.1 V
 ## ⚙️ Setup Instructions
 
 - Clone the repository
-```  git clone https://github.com/yourusername/todo-webapp.git
+  ```  git clone https://github.com/yourusername/todo-webapp.git
         cd todo-webapp
-```
+  ```
 - Configure your MySQL database
     -- Create a database (e.g. todo_db).
     -- Update xml file with your DB credentials:
@@ -53,9 +53,9 @@ Server :	Apache Tomcat 10.1 V
   ```
   - Build and run the project
      -- Using Maven:
-     ```
+  ```
      mvn clean install
-    ```
+  ```
   Deploy to Tomcat or run via your IDE.
 
 - Access the App
