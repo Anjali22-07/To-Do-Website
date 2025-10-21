@@ -77,7 +77,8 @@ Server :	Apache Tomcat 10.1 V
 
 
 
-##💡 Future Improvements
+
+## 💡 Future Improvements
 - User authentication and login
 - Deadline and reminders
 - Task categories and priority tags
