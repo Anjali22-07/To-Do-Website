@@ -76,15 +76,16 @@ Server :	Apache Tomcat 10.1 V
   ![Add Task](https://raw.githubusercontent.com/Anjali22-07/To-Do-Website/main/Screenshot%20(8).png)  
 
 
-###💡 Future Improvements
+
+##💡 Future Improvements
 - User authentication and login
 - Deadline and reminders
 - Task categories and priority tags
 - Responsive mobile design
 
-### 🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-### 📄 License
+## 📄 License
  This project is licensed under the MIT License.
  
